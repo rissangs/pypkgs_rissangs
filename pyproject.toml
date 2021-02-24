@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pypkgs_rissangs"
-version = "1.1.4"
+version = "1.1.5"
 description = "Python package that eases the pain of concatenating Pandas categoricals."
 authors = ["rissangs <70673560+rissangs@users.noreply.github.com>"]
 license = "MIT"
